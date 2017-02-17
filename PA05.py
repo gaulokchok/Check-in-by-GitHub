@@ -1,4 +1,4 @@
-def rechnen(a,b):
+def rechnen(a,b):#deo hieu gi het
     g = []
     for i in range (len(a)):
         g.append(a[i]+b[i])
